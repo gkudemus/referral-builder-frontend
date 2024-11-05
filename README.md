@@ -14,6 +14,7 @@ features:
 3. Can delete Referrals
 4. Responsive design
 
+Steps:
 1. clone repository
 2. npm install
 3. npm start
