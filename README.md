@@ -1,9 +1,11 @@
 This is the Front end repository for the referral builder app
 
 desktop home:
+
 ![image](https://github.com/user-attachments/assets/b99d3dfc-ddfe-420e-9e68-8c68e7fb1c99)
 
 mobile home:
+
 ![image](https://github.com/user-attachments/assets/7ea1fdf2-cff0-4f1c-8f6f-af267681ebfb)
 
 features:
